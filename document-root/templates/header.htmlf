@@ -6,19 +6,19 @@
     <!--[if IE]><script src="/static/js/html5.js"></script><![endif]-->
     <link rel="stylesheet" href="/static/css/webapp.css" />
   </head>
-  
+
   <body>
     <header>
       <hgroup>
-	<h1>My Lisp Webapp</h1>
-	<h2>Courtesy of: </h2>
+    <h1>My Lisp Webapp</h1>
+    <h2>Courtesy of: </h2>
       </hgroup>
-      
+
       <nav>
-	<ul>
+    <ul>
           <li><a href="http://weitz.de/hunchentoot/">Hunchentoot</a></li>
           <li><a href="http://weitz.de/html-template/">html-template</a></li>
           <li><a href="http://postabon.com">Postabon</a></li>
-	</ul>
+    </ul>
       </nav>
     </header>
