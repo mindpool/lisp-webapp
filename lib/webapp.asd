@@ -7,7 +7,7 @@
 (in-package :webapp)
 
 (defsystem :webapp
-  :depends-on (:hunchentoot :html-template)  
+  :depends-on (:hunchentoot :html-template :cl-who)
   :version "0.1"
   :serial t
   :components

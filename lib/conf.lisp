@@ -22,10 +22,6 @@
 ;;tell ASDF where to find
 (push (merge-pathnames "asdf-systems/" *webapp-home*) asdf:*central-registry*)
 
-;;load up Swank, so we can connect to the lisp later with Slime
-;;(asdf:oos 'asdf:load-op :swank)
-;;(swank:create-server :port *swank-port* :dont-close t)
-
 ;;load our webapp
 (asdf:oos 'asdf:load-op :webapp)
 (webapp:start)
