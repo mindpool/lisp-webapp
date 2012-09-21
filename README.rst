@@ -11,7 +11,8 @@ Instructions
 Dependencies
 ------------
 
-TBD
+This webapp assumes you have `Steel Bank Common Lisp`_ (`sbcl`_) installed and
+running on your machine.
 
 Configurtion
 ------------
@@ -60,4 +61,6 @@ The following changes have been made:
 * 
 
 .. Links
+.. _Steel Bank Common Lisp: http://www.sbcl.org/
+.. _sbcl: http://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp
 .. _A Simple-Lisp Webapp for Beginners: http://arantaday.com/a-simple-lisp-webapp-for-beginners
