@@ -19,7 +19,7 @@
 (defvar *webapp-home* (merge-pathnames "./" *default-pathname-defaults*))
 
 ;;tell ASDF where to find
-(push (merge-pathnames "deps/" *webapp-home*) asdf:*central-registry*)
+(push (merge-pathnames "package-links/" *webapp-home*) asdf:*central-registry*)
 
 ;;load our webapp
 (asdf:oos 'asdf:load-op :webapp)

@@ -1,4 +1,4 @@
-DEP_LINKS = ./deps
+DEP_LINKS = ./package-links
 DEPS = ./third-party
 LIB = ./lib
 BIN_DIR = /usr/local/bin
