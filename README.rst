@@ -60,4 +60,4 @@ The following changes have been made:
 * 
 
 .. Links
-.. _A Simple-Lisp Webapp for Beginners: http://blog.postabon.com/a-simple-lisp-webapp-for-beginners
+.. _A Simple-Lisp Webapp for Beginners: http://arantaday.com/a-simple-lisp-webapp-for-beginners
