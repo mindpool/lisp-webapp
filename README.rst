@@ -22,7 +22,11 @@ TBD
 Design and Layout
 -----------------
 
-TBD
+`Bootstrap`_ is used for CSS and JavaScript; it's included in the source code.
+
+Since `LESS CSS`_ is used to comfile the Bootstrap styles, `Node.js`_ is
+required (Node's NPM is used to install ``less``).
+
 
 Templating and HTML
 -------------------
@@ -58,9 +62,14 @@ The following changes have been made:
 
 * Addition of a ``Makefile`` and removal of the ``startserver.sh`` script.
 
-* 
+* Templating was changed from html-template to cl-who.
+
+* Bookstrap was added.
 
 .. Links
+.. _Bootstrap: http://twitter.github.com/bootstrap/index.html
+.. _LESS CSS: http://lesscss.org
+.. _Node.js: http://nodejs.org/
 .. _Steel Bank Common Lisp: http://www.sbcl.org/
 .. _sbcl: http://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp
 .. _A Simple-Lisp Webapp for Beginners: http://arantaday.com/a-simple-lisp-webapp-for-beginners
