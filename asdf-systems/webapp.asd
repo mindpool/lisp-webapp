@@ -1,1 +1,1 @@
-../src/webapp.asd
+../lib/webapp.asd

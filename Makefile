@@ -1,2 +1,2 @@
 run:
-	sbcl --no-sysinit --no-userinit --load ./src/init.lisp
+	sbcl --no-sysinit --no-userinit --load ./lib/conf.lisp
