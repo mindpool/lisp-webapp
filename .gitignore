@@ -1,8 +1,9 @@
+*.sw[po]
 *.fasl
-#*#
 *~
 *.elc
 access.log
 message.log
 *.so
 .DS_Store
+package-links
