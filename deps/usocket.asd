@@ -1,1 +1,0 @@
-../third-party/usocket-svn/usocket.asd

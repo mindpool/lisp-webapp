@@ -1,1 +1,0 @@
-../third-party/html-template-0.9.1/html-template.asd
