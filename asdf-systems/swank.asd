@@ -1,1 +1,0 @@
-../aux/slime/swank.asd

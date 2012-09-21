@@ -1,1 +1,0 @@
-../aux/trivial-gray-streams-2008-11-02/trivial-gray-streams.asd

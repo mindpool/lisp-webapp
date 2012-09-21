@@ -1,1 +1,0 @@
-../aux/hunchentoot/hunchentoot.asd

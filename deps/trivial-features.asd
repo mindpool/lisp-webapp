@@ -1,0 +1,1 @@
+../third-party/trivial-features/trivial-features.asd
