@@ -8,5 +8,5 @@ $(BIN_DIR)/lessc:
 run:
 	sbcl --no-sysinit --no-userinit --load ./lib/conf.lisp
 
-css:
-	$(LESSC) ./tools/less/bootstrap.less > ./static/css/bootstrap.cs
+css: $(BIN_DIR)/lessc
+	$(LESSC) ./tools/less/bootstrap.less > ./static/css/bootstrap.css
